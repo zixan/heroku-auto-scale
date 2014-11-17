@@ -1,0 +1,5 @@
+Free software addon for Heroku to auto scale dynos in response to inbound requests for IO-bound applications.
+
+Why make it free?
+ - Anyone who uses Heroku should be able to use it without paying for it.
+ - More (smarter) programmers can contribute to make this feature really useful. 
